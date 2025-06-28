@@ -13,6 +13,9 @@ const App = () =>{
             </div>
             <TopSection/>
             <Mid/>
+            <Mid1/>
+            <Mid2/>
+            <Mid4/>
             <Footer/>
         </div>
     );
